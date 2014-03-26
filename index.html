@@ -7,7 +7,7 @@ nofoot: true
 <ul class="index">
   {% for post in site.posts %}
     <li>
-      <h3><a href="{{ post.url }}">{{ post.title }} ({{post.date | date: "%B %Y"}})</a></h3>
+      <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }} ({{post.date | date: "%B %Y"}})</a></h3>
     </li>
   {% endfor %}
 </ul>
