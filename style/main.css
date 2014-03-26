@@ -1,0 +1,81 @@
+html, body { 
+  background: url('http://datacommons.find.coop/sites/default/files/dcc_bg.png');
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+  font-family: 'Droid Serif'; 
+  font-style: normal; 
+  font-weight: normal; 
+}
+
+#wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#header {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#footer {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#content { 
+  background: white;
+  padding: 20px;
+}
+
+.logo {
+  display: block;
+  background: url(http://datacommons.find.coop/sites/default/files/dc_logo_quilt_960_0.png);
+  height: 82px;
+}
+
+ul.index {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;  
+}
+
+ul.index li {
+}
+
+ul.index li a {
+  display: block;
+  max-width: 300px;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  color: black;
+  background: url('http://datacommons.find.coop/sites/default/files/dcc_bg.png');
+  border: 1px solid white;
+}
+
+ul.index li a:hover {
+  border: 1px solid green;
+}
+
+#header a {
+  color: black !important;
+}
+
+#footer a {
+  color: black !important;
+}
+
+img.show {
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+}
