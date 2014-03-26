@@ -79,3 +79,12 @@ img.show {
   width: 80%;
   margin: 0 auto;
 }
+
+.edit {
+  text-align: right;
+  font-style: italic;
+}
+
+.edit a {
+  color: #888;
+}
