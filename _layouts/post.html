@@ -3,8 +3,15 @@
 <h2>{{page.title}}</h2>
 <h3>{{page.date | date: "%B %Y"}}</h3>
 
+{% if page.draft %}
+{% include draft.html %}
+{% endif %}
+
 {{content}}
 
+{% if page.draft %}
+{% include draft.html %}
+{% endif %}
 
 <div class="edit">
    <a href="https://github.com/datacommons/datacommons.github.io/blob/master/_posts/{{ page.url | replace_first:'/','' | replace:'/','-' }}">Edit this post</a>
