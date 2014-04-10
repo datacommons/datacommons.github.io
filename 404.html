@@ -1,0 +1,19 @@
+---
+title: 404 Not found
+layout: default
+nofoot: true
+---
+
+<h1>Not found</h1>
+
+<p>
+We may have moved what you are looking for.  Here's what we have:
+</p>
+
+<ul class="index">
+  {% for post in site.posts %}
+    <li>
+      <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }} ({{post.date | date: "%B %Y"}})</a></h3>
+    </li>
+  {% endfor %}
+</ul>
