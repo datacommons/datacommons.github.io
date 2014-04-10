@@ -108,3 +108,8 @@ img.show {
   margin-top: 20px;
   margin-bottom: 50px;
 }
+
+.author {
+  text-align: right;
+  font-style: italic;
+}
