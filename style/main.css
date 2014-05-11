@@ -14,6 +14,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal; 
 }
 
+h1 {
+  font-size: 2.5em;
+  line-height: 1em;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
 #wrapper {
   max-width: 800px;
   margin: 0 auto;
@@ -67,11 +74,11 @@ ul.index li a:hover {
 }
 
 #header a {
-  color: black !important;
+  color: #4c4742 !important;
 }
 
 #footer a {
-  color: black !important;
+  color: #4c4742 !important;
 }
 
 img.show {
