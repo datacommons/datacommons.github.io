@@ -1,0 +1,10 @@
+.minor { 
+  display: none;
+}
+
+ul.menu li a {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: 0px;
+  margin-right: 0px;
+}

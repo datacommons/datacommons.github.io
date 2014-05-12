@@ -1,0 +1,27 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+  font-size: 81.3%;
+  line-height: 1.6em;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 { 
+  font-size: 1.5em;
+}
+
+.changes, .section, .field-name-body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+
+.intro img {
+  width: 100px;
+}
+
+.intro p, .intro h2 {
+  padding-left: 120px;
+}

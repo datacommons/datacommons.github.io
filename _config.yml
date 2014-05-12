@@ -3,5 +3,5 @@ markdown: redcarpet
 pygments: true
 baseurl: 
 name: Data Commons Co-op
-description: The Data Commons Cooperative newsletters
-url: http://datacommons.find.coop
+description: The Data Commons Co-op
+url: http://datacommons.coop

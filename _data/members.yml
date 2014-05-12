@@ -1,0 +1,117 @@
+---
+  - 
+    LINK: "http://cooperativemaine.wordpress.com/"
+    KEY: "COOPME"
+    ACTIVE: "1"
+    NAME: "Cooperative Maine"
+  - 
+    LINK: "http://usworker.coop/"
+    KEY: "USFWC"
+    ACTIVE: "1"
+    NAME: "US Federation of Worker Co-ops"
+  - 
+    LINK: "http://www.canadianworker.coop/"
+    KEY: "CWCF"
+    ACTIVE: "1"
+    NAME: "Canadian Worker Co-op Federation"
+  - 
+    LINK: "http://sarap.is/"
+    KEY: "SARAPIS"
+    ACTIVE: "1"
+    NAME: "Sarapis Foundation"
+  - 
+    LINK: "http://www.cooperationworks.coop/"
+    KEY: "CW"
+    ACTIVE: "1"
+    NAME: "Cooperation Works!"
+  - 
+    LINK: "http://www.nasco.coop/"
+    KEY: "NASCO"
+    ACTIVE: "1"
+    NAME: "North American Students of Co-operation"
+  - 
+    LINK: "http://www.foodcoopinitiative.coop/"
+    KEY: "FCI"
+    ACTIVE: "1"
+    NAME: "Food Co-op Initiative"
+  - 
+    LINK: "http://east.usworker.coop/"
+    KEY: "ECWD"
+    ACTIVE: "1"
+    NAME: "Eastern Conference for Workplace Democracy"
+  - 
+    LINK: "http://www.cooperativefund.org/"
+    KEY: "CFNE"
+    ACTIVE: "1"
+    NAME: "Cooperative Fund of New England"
+  - 
+    LINK: "http://commonenterprise.coop/"
+    KEY: "CCE"
+    ACTIVE: "1"
+    NAME: "Carolina Common Enterprise"
+  - 
+    LINK: "http://hourworld.org/"
+    KEY: "HOUR"
+    ACTIVE: "1"
+    NAME: "hOurworld"
+  - 
+    LINK: "http://www.manitoba.coop/"
+    KEY: "MCA"
+    ACTIVE: "1"
+    NAME: "Manitoba Cooperative Association"
+  - 
+    LINK: "http://cultivate.coop/wiki/Main_Page"
+    KEY: "CULTIVATE"
+    ACTIVE: "1"
+    NAME: "Cultivate.Coop"
+  - 
+    LINK: "http://solidaritynyc.org/"
+    KEY: "SOLIDNYC"
+    ACTIVE: "1"
+    NAME: "Solidarity NYC"
+  - 
+    LINK: "http://www.geo.coop/"
+    KEY: "GEO"
+    ACTIVE: "1"
+    NAME: "Grassroots Economic Organizing"
+  - 
+    LINK: "http://neweconomicsinstitute.org/"
+    KEY: "NEI"
+    ACTIVE: "1"
+    NAME: "New Economics Institute"
+  - 
+    LINK: "http://www.cdi.coop/"
+    KEY: "CDI"
+    ACTIVE: "1"
+    NAME: "Cooperative Development Institute"
+  - 
+    LINK: "http://nwcdc.coop/"
+    KEY: "NWCDC"
+    ACTIVE: "1"
+    NAME: "Northwest Cooperative Development Center"
+  - 
+    LINK: "http://www.rmfu.org/co-op/co-op-mission/"
+    KEY: "RMFU"
+    ACTIVE: "1"
+    NAME: "Rocky Mountain Farmers Union Co-op Development Center"
+  - 
+    LINK: "http://www.tiny.coop"
+    KEY: "TINY"
+    ACTIVE: "1"
+    NAME: "Tiny.Coop"
+  - 
+    LINK: "http://www.ussen.org/"
+    KEY: "SEN"
+    ACTIVE: "1"
+    NAME: "Solidarity Economy Network"
+  - 
+    LINK: "http://www.shareable.net/"
+    KEY: "SHAREABLE"
+    ACTIVE: "1"
+    NAME: "Shareable and the Sharing Cities Network"
+  - 
+    LINK: "http://solidaritypiedmont.org/"
+    KEY: "PIEDMONT"
+    ACTIVE: "1"
+    NAME: "Solidarity Piedmont"
+
