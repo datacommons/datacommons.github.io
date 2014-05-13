@@ -25,9 +25,9 @@ top: true
 
 </div>
 
-{% for post in site.posts limit:3 %}
+{% for post in site.posts where:"draft",false limit:3 %}
 <ul class="menu">
-  <li><h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h3></li>
+  <li><h3><a href="{{site.baseurl}}{{ post.url }}">{% if post.newsletter %}{{post.date | date: "%B"}} Newsletter: {% endif %}{{ post.title }}{% if post.changelog %}, {{post.date | date: "%B %Y"}}{% endif %}</a></h3></li>
 </ul>
   {{ post.content }}
 {% endfor %}
@@ -41,3 +41,17 @@ top: true
     </li>
   {% endfor %}
 </ul>
+
+{% assign drafts = site.posts | where:"draft",true %}
+
+{% if drafts %}
+<h2>Drafts</h2>
+
+<ul class="index">
+  {% for post in drafts %}
+    <li>
+      <h3><a class="draft" href="{{site.baseurl}}{{ post.url }}">{{ post.title }} ({{post.date | date: "%B %Y"}})</a></h3>
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}

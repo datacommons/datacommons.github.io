@@ -81,6 +81,10 @@ ul.index li a {
   background: #080;
 }
 
+ul.index li a.draft {
+  background: #888;
+}
+
 ul.index li a:hover {
   background: #000;
 }

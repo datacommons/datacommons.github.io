@@ -9,6 +9,22 @@
 
 {{content}}
 
+{% if page.changelog %}
+  {% assign selections = site.posts | where:"changelog",true %}
+
+  <h2>Other ChangeLogs</h2>
+
+  <ul class="index">
+    {% for post in selections %}
+      {% unless post.path == page.path %}
+      <li>
+        <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }} for {{post.date | date: "%B %Y"}}</a></h3>
+      </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+{% endif %}
+
 {% if page.draft %}
 {% include draft.html %}
 {% endif %}
