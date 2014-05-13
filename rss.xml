@@ -8,7 +8,8 @@ layout: none
 		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>		
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/rss.xml" rel="self" type="application/rss+xml" />
-		{% assign selections = site.posts | where:"draft",nil %}{% for post in selections limit:10 %}
+		{% for post in site.posts limit:10 %}
+                        {% unless post.draft %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				<description>{{ post.content | xml_escape }}</description>
@@ -16,6 +17,7 @@ layout: none
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 			</item>
+			{% endunless %}
 		{% endfor %}
 	</channel>
 </rss>
