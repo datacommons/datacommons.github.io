@@ -25,17 +25,29 @@ top: true
 
 </div>
 
+<h2>Recent posts</h2>
+<div class="section">
+
+<ul class="index">
 {% for post in site.posts limit:3 %}
 {% unless post.draft %}
-<ul class="menu">
-  <li><h3><a href="{{site.baseurl}}{{ post.url }}">{% if post.newsletter %}{{post.date | date: "%B"}} Newsletter: {% endif %}{{ post.title }}{% if post.changelog %}, {{post.date | date: "%B %Y"}}{% endif %}</a></h3></li>
+    <li>
+      <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }} ({{post.date | date: "%B %Y"}})</a></h3>
+    </li>
+{% endunless %}
+{% endfor %}
 </ul>
+</div>
+
+{% for post in site.posts limit:3 %}
+{% unless post.draft %}
   {{ post.content }}
 {% endunless %}
 {% endfor %}
 
 <h2>Older posts</h2>
 
+<div class="section">
 <ul class="index">
   {% for post in site.posts offset:3 %}
     <li>
@@ -43,6 +55,7 @@ top: true
     </li>
   {% endfor %}
 </ul>
+</div>
 
 {% if false %}
 {% assign drafts = site.posts | where:"draft",true %}
