@@ -1,0 +1,16 @@
+---
+title: Drafts
+layout: default
+---
+
+<h2>Drafts</h2>
+
+<ul class="index">
+  {% for post in site.posts %}
+    {% if post.draft %}
+    <li>
+      <h3><a class="draft" href="{{site.baseurl}}{{ post.url }}">{{ post.title }} ({{post.date | date: "%B %Y"}})</a></h3>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
