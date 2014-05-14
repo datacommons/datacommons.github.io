@@ -9,18 +9,19 @@
 
 {{content}}
 
-{% if page.not_yet_changelog %}
-  {% assign selections = site.posts | where:"changelog",true %}
+{% if page.changelog %}
 
   <h2>Other ChangeLogs</h2>
 
   <ul class="index">
-    {% for post in selections %}
+    {% for post in site.posts %}
+      {% if post.changelog %}
       {% unless post.path == page.path %}
       <li>
         <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }} for {{post.date | date: "%B %Y"}}</a></h3>
       </li>
       {% endunless %}
+      {% endif %}
     {% endfor %}
   </ul>
 {% endif %}
