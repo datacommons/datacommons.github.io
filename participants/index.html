@@ -1,0 +1,19 @@
+---
+title: Members
+layout: default
+---
+
+<div class="section">
+
+  <h2>Members of the Co-op</h2>
+  
+<ul>
+{% for member in site.data.members %}
+  <li>
+      <a href="{{ member.LINK }}">{{ member.NAME }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+</div>
+
