@@ -114,4 +114,9 @@
     KEY: "PIEDMONT"
     ACTIVE: "1"
     NAME: "Solidarity Piedmont"
+  - 
+    LINK: "http://www.cooperativegrocer.coop/"
+    KEY: "CGN"
+    ACTIVE: "1"
+    NAME: "Cooperative Grocer Network"
 
