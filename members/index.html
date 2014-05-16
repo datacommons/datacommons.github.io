@@ -6,9 +6,11 @@ layout: default
 <div class="section">
 
   <h2>Members of the Co-op</h2>
+
+{% assign lst = site.data.members | sort: 'NAME' %}
   
 <ul>
-{% for member in site.data.members %}
+{% for member in lst %}
   <li>
       <a href="{{ member.LINK }}">{{ member.NAME }}</a>
   </li>
