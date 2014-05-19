@@ -190,3 +190,10 @@ p.show100 {
 .join {
   background: #050 !important;
 }
+
+.alert { 
+  background: #800;
+  color: white;
+  font-size: 150%;
+  border-radius: 20px;
+}
