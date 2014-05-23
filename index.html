@@ -22,7 +22,14 @@ top: true
 
 {% for post in site.posts limit:3 %}
 {% unless post.draft %}
+{% if post.simple %}
+<h1>{{post.title}}</h1>
+<div class="section">
+{% endif %}
   {{ post.content }}
+{% if post.simple %}
+</div>
+{% endif %}
 {% endunless %}
 {% endfor %}
 

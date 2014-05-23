@@ -197,3 +197,34 @@ p.show100 {
   font-size: 150%;
   border-radius: 20px;
 }
+
+.cite { 
+  text-align: right;
+  font-style: italic;
+  font-size: 90%;
+  color: #888;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.cite a { 
+  color: #888;
+  font-weight: bold;
+}
+
+.cite:before { 
+  content: "source: ";
+}
+
+blockquote p { 
+  border-left: 1px solid green;
+  border-right: 1px solid green;
+  padding: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  font-style: italic;
+}

@@ -7,7 +7,15 @@
 {% include draft.html %}
 {% endif %}
 
+{% if page.simple %}
+<div class="section">
+{% endif %}
+
 {{content}}
+
+{% if page.simple %}
+</div>
+{% endif %}
 
 {% if page.changelog %}
 

@@ -1,5 +1,5 @@
 name: Data Commons Co-op
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 baseurl: 
 name: Data Commons Co-op
