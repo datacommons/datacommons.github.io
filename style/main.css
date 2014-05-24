@@ -228,3 +228,7 @@ blockquote p {
   border-bottom-right-radius: 10px;
   font-style: italic;
 }
+
+.decorate { 
+  float: right;
+}
