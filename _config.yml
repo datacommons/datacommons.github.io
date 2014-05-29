@@ -5,3 +5,6 @@ baseurl:
 name: Data Commons Co-op
 description: The Data Commons Co-op
 url: http://datacommons.coop
+
+gems:
+  - jekyll-sitemap
