@@ -232,3 +232,11 @@ blockquote p {
 .decorate { 
   float: right;
 }
+
+p.half-image {
+  text-align: center;
+}
+
+p.half-image img {
+  width: 75%;
+}

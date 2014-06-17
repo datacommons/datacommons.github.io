@@ -25,3 +25,7 @@ including the principle of voluntary and open membership:
 > <b>1st Principle: Voluntary and Open Membership.</b> Cooperatives are voluntary organizations, open to all persons able to use their services and willing to accept the responsibilities of membership, without gender, social, racial, political or religious discrimination.
 
 So we are committed to being open to all ([join now!](http://member.datacommons.coop/applications/new)). The responsibilities of membership and the nature of our services are definitely kind of geeky though.  The geekiest of all cooperative organizations on the planet?  We don't know.  The [Tech Co-op Network](http://techworker.coop/) is way up there, and it is hard to beat the [International Ice Core Data Cooperative](http://www.cricyt.edu.ar/paleo/icecore/iicdc.html) set up by a bunch of paleoclimatologists.  One thing for sure, our planet could definitely do with more geeky co-op organizations!
+
+<ul class="menu">
+<li><a href="http://www.cooperativegrocer.coop">Cooperative Grocer</a></li>
+</ul>
