@@ -17,11 +17,12 @@ Reading material:
 
 <ul class="index">
 <li><a href="{{site.baseurl}}/docs/dcc_annual_report_2014.pdf">Draft Annual Report 2014 (.pdf)</a></li>
+<li><a href="{{site.baseurl}}/docs/dcc_election2014_guide.pdf">Election Guide 2014 (.pdf)</a></li>
 </ul>
 
 Reference material:
 
-<ul class="index">
-<li><a href="http://members.datacommons.coop/bylaws/">Bylaws of the Co-op</a></li>
-<li><a href="{{site.baseurl}}/2013/05/20/annual-meeting-2013.html">AGM 2013, what happened last year</a></li>
+<ul class="menu">
+<li><a href="http://members.datacommons.coop/bylaws/">Bylaws</a></li>
+<li><a href="{{site.baseurl}}/2013/05/20/annual-meeting-2013.html">AGM 2013</a></li>
 </ul>
