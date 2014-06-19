@@ -105,6 +105,11 @@ ul.menu li a {
   background: #080;
 }
 
+ul.menu li.special a {
+  background: #800;
+}
+
+
 ul.menu li a:hover {
   background: #000;
 }
