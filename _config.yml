@@ -5,6 +5,8 @@ baseurl:
 name: Data Commons Co-op
 description: The Data Commons Co-op
 url: http://datacommons.coop
+kramdown:
+  parse_block_html: true
 
 gems:
   - jekyll-sitemap
