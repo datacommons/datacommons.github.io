@@ -85,7 +85,7 @@ For more background on the nature of the co-op, you can check our bylaws,
 or records from last year's AGM.
 
 <ul class="menu">
-<li><a href="http://members.datacommons.coop/bylaws/">Bylaws</a></li>
+<li><a href="http://member.datacommons.coop/bylaws">Bylaws</a></li>
 <li><a href="{{site.baseurl}}/2013/05/20/annual-meeting-2013.html">AGM 2013</a></li>
 </ul>
 
