@@ -30,6 +30,22 @@ Please read our election guide for more information about this election and the 
 </div>
 
 
+## New mailing list
+
+<div class="section">
+
+We invite members of the co-op, board members, staff, techies, and
+friends of the co-op to subscribe to a new mailing list: [`datacommons@lists.riseup.net`](https://lists.riseup.net/www/info/datacommons).
+This is a list for members, staff, and board to mingle and talk things over,
+and get a sense for the pulse of the co-op.
+It has public archives. For any private concerns start with an email to [`info@datacommons.coop`]({{site.baseurl}}/contact/) instead.
+
+<ul class="menu">
+<li><a href="https://lists.riseup.net/www/subscribe/datacommons">Subscribe to datacommons mailing list</a></li>
+</ul>
+
+</div>
+
 
 ## Reference material
 
