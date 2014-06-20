@@ -13,6 +13,8 @@ held:
 > (2:00-4:00 Central; 1:00-3:00 Mountain; 12:00-2:00 Pacific)  
 > Conference call instructions will be emailed to co-op members.  
 
+> Notes will be taken "live" at the following etherpad: <a href="https://pad.riseup.net/p/datacommons2014agm">https://pad.riseup.net/p/datacommons2014agm</a>
+
 </div>
 
 ## Draft Agenda
