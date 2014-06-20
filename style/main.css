@@ -245,3 +245,30 @@ p.half-image {
 p.half-image img {
   width: 75%;
 }
+
+.agenda table td + td + td + td {
+  white-space: nowrap;
+}
+
+.agenda table
+{
+  border-collapse: collapse;
+  margin-bottom: 1em;
+}
+.agenda table th
+{
+	font-size: 14px;
+	font-weight: normal;
+	color: #039;
+	padding: 10px 8px;
+	border-bottom: 2px solid #6678b1;
+}
+.agenda table td
+{
+	padding: 9px 8px 0px 8px;
+}
+.agenda table tbody tr:hover td
+{
+	background: #aaf;
+}
+

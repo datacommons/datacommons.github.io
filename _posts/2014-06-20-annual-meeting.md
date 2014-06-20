@@ -15,6 +15,34 @@ held:
 
 </div>
 
+## Draft Agenda
+
+<div class="section agenda">
+
+| Facilitator:  | Jim Johnson       |
+| Note Taker:   | Jamie Campbell    |
+| Time Watcher: | Paul Fitzpatrick  |
+
+
+|---
+| Agenda Item|  Presenter/Facilitator/Notes | Duration | Time |
+|:-----------|:-----------------------------|---------:|------|
+| I. Welcome, Roll Call, Overview of the Agenda | Lauren Hudson and Jim Johnson | 15 min | 3:00-3:15 |
+| II. Board Elections overview | David Morgan | 5 min | 3:15-3:20 |
+| III. Year in Review | Noemi Giszpenc | 5 min | 3:20-3:25 |
+| IV. Featured Members: | Facilitator: Jim Johnson | 20 mins | 3:25-3:45 |
+| US Solidarity Economy Network & Solidarity Economy Mapping Collaboration (Emily Kawano) | | | |
+| Shareable/Sharing Cities Network (Mira Luna) | | | |
+| Cooperative Grocers (Dan Nordley) | | | |
+| Cheryl Krostewitz, Manitoba Cooperative Association | | | |
+| IV. Treasurer's Report | Paul Fitzpatrick | 10 min | 3:45-3:55 |
+| IV. Report from Visioning and Development Team | Ethan Miller | 5-10 min | 4:05-4:15 |
+| *** VOTING REMINDER*** | David Morgan | | |
+| VI. Discussion/Feedback regarding planning and development | Emily Lippold-Cheney | 30 min | 4:15-4:45 |
+| VII. Announcement of Election results & Closing | David Morgan, Jamie Campbell, Jim Johnson | 15min | 4:45-5:00 |
+
+</div>
+
 
 ## Reading material
 
@@ -29,6 +57,7 @@ Please read our election guide for more information about this election and the 
 </ul>
 
 </div>
+
 
 
 ## New mailing list
