@@ -3,18 +3,18 @@ layout: post
 title: Interim Strategic Plan, June 2014 - June 2015
 ---
 
-# Data Commons Vision
+# Data Commons <i>Draft</i> Vision
 
 {:.section}
 To be a critical catalyst for collaborative, generative, distributed flows of data in service of a collaborative, generative, distributed economy.
 
 
-# Data Commons Mission 
+# Data Commons <i>Draft</i> Mission 
 
 {:.section}
 We build free and open infrastructure for members to collaboratively gather, share, maintain, display and deploy information about a generative economy.
 
-# Strategic Plan
+# <i>Draft</i> Interim Strategic Plan
 
 {::options parse_block_html="true" /}
 <div class="section">
