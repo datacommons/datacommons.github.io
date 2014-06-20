@@ -22,14 +22,14 @@ We build free and open infrastructure for members to collaboratively gather, sha
 Under preparation by the Visioning and Development Team, not yet complete.
 <a href="{{site.baseurl}}/contact/">Get involved</a>!
 
-## Information gathering
+## Information Gathering
 
 Strategic orientation for information gathering to be explored by
 board and visioning committee.
 
 
 
-##  Information sharing
+##  Information Sharing
 
 Strategic orientation for information sharing to be explored by board
 and visioning committee.
