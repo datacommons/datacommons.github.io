@@ -33,7 +33,7 @@ held:
 | IV. Featured Members: | Facilitator: Jim Johnson | 20 mins | 3:25-3:45 |
 | US Solidarity Economy Network & Solidarity Economy Mapping Collaboration (Emily Kawano) | | | |
 | Shareable/Sharing Cities Network (Mira Luna) | | | |
-| Cooperative Grocers (Dan Nordley) | | | |
+| Cooperative Grocers Network (Dan Nordley) | | | |
 | Manitoba Cooperative Association (Cheryl Krostewitz) | | | |
 | V. Treasurer's Report | Paul Fitzpatrick | 10 min | 3:45-3:55 |
 | VI. Report from Visioning and Development Team | Ethan Miller | 5-10 min | 4:05-4:15 |
