@@ -25,6 +25,7 @@ Please read our election guide for more information about this election and the 
 <ul class="index">
 <li><a href="{{site.baseurl}}/docs/dcc_annual_report_2014.pdf">Draft Annual Report 2014 (.pdf)</a></li>
 <li><a href="{{site.baseurl}}/docs/dcc_election2014_guide.pdf">Election Guide 2014 (.pdf)</a></li>
+<li><a href="{{site.baseurl}}/plan/">Draft Strategic Plan</a></li>
 </ul>
 
 </div>

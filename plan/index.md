@@ -70,3 +70,11 @@ and visioning committee.
  
 
 </div>
+
+<div class="section">
+
+<ul class="menu">
+<li class="special"><a href="{{site.baseurl}}/2014/06/20/annual-meeting.html">AGM 2014</a></li>
+</ul>
+
+</div>
