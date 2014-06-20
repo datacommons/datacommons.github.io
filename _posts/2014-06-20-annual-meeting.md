@@ -34,7 +34,7 @@ held:
 | US Solidarity Economy Network & Solidarity Economy Mapping Collaboration (Emily Kawano) | | | |
 | Shareable/Sharing Cities Network (Mira Luna) | | | |
 | Cooperative Grocers (Dan Nordley) | | | |
-| Cheryl Krostewitz, Manitoba Cooperative Association | | | |
+| Manitoba Cooperative Association (Cheryl Krostewitz) | | | |
 | V. Treasurer's Report | Paul Fitzpatrick | 10 min | 3:45-3:55 |
 | VI. Report from Visioning and Development Team | Ethan Miller | 5-10 min | 4:05-4:15 |
 | *** VOTING REMINDER*** | David Morgan | | |
