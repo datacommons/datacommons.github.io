@@ -35,11 +35,11 @@ held:
 | Shareable/Sharing Cities Network (Mira Luna) | | | |
 | Cooperative Grocers (Dan Nordley) | | | |
 | Cheryl Krostewitz, Manitoba Cooperative Association | | | |
-| IV. Treasurer's Report | Paul Fitzpatrick | 10 min | 3:45-3:55 |
-| IV. Report from Visioning and Development Team | Ethan Miller | 5-10 min | 4:05-4:15 |
+| V. Treasurer's Report | Paul Fitzpatrick | 10 min | 3:45-3:55 |
+| VI. Report from Visioning and Development Team | Ethan Miller | 5-10 min | 4:05-4:15 |
 | *** VOTING REMINDER*** | David Morgan | | |
-| VI. Discussion/Feedback regarding planning and development | Emily Lippold-Cheney | 30 min | 4:15-4:45 |
-| VII. Announcement of Election results & Closing | David Morgan, Jamie Campbell, Jim Johnson | 15min | 4:45-5:00 |
+| VII. Discussion/Feedback regarding planning and development | Emily Lippold-Cheney | 30 min | 4:15-4:45 |
+| VIII. Announcement of Election results & Closing | David Morgan, Jamie Campbell, Jim Johnson | 15min | 4:45-5:00 |
 
 </div>
 
