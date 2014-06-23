@@ -5,19 +5,19 @@ title: Annual General Meeting 2014
 
 <div class="section">
 
-The second Annual General Meeting of the Data Commons co-op will be
-held:
+The second Annual General Meeting of the Data Commons co-op <s>will be</s>
+was held:
 
 > Friday June 20th 2014, by phone.  
 > 3:00-5:00 PM Eastern 
 > (2:00-4:00 Central; 1:00-3:00 Mountain; 12:00-2:00 Pacific)  
-> Conference call instructions will be emailed to co-op members.  
+> Conference call instructions <s>will be</s> were emailed to co-op members.  
 
-> Notes will be taken "live" at the following etherpad: <a href="https://pad.riseup.net/p/datacommons2014agm">https://pad.riseup.net/p/datacommons2014agm</a>
+> Notes <s>will be</s> were taken "live" at the following etherpad: <a href="https://pad.riseup.net/p/datacommons2014agm">https://pad.riseup.net/p/datacommons2014agm</a>
 
 </div>
 
-## Draft Agenda
+## Agenda
 
 <div class="section agenda">
 
@@ -53,7 +53,7 @@ held:
 Please read our election guide for more information about this election and the candidates. Read our annual report to learn more about the co-op's activities.
 
 <ul class="index">
-<li><a href="{{site.baseurl}}/docs/dcc_annual_report_2014.pdf">Draft Annual Report 2014 (.pdf)</a></li>
+<li><a href="{{site.baseurl}}/docs/dcc_annual_report_2014.pdf">Annual Report 2014 (.pdf)</a></li>
 <li><a href="{{site.baseurl}}/docs/dcc_election2014_guide.pdf">Election Guide 2014 (.pdf)</a></li>
 <li><a href="{{site.baseurl}}/plan/">Draft Strategic Plan</a></li>
 </ul>
