@@ -25,6 +25,8 @@ top: true
 {% if post.simple %}
 <h1>{{post.title}}</h1>
 <div class="section">
+{% else %}
+<h1>{{post.title}}</h1>
 {% endif %}
   {{ post.content }}
 {% if post.simple %}
