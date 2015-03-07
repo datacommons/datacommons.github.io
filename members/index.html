@@ -7,13 +7,27 @@ layout: default
 
   <h2>Members of the Co-op</h2>
 
-{% assign lst = site.data.members | sort: 'NAME' %}
+{% capture mbrs %}
+  {% for mbr in site.data.members %}
+    |{{ mbr.NAME | downcase }}`{{ mbr.NAME }}`{{ mbr.LINK }}`
+  {% endfor %}
+{% endcapture %}
+{% assign mbrs = mbrs | split: '|' | sort %}
   
 <ul>
-{% for member in lst %}
-  <li>
-      <a href="{{ member.LINK }}">{{ member.NAME }}</a>
-  </li>
+{% for mbr in mbrs %}
+    {% assign items = mbr | split: '`' %}
+    {% assign name = items[1] | strip %}
+    {% if name %}
+    <li>
+    {% assign link = items[2] | strip %}
+    {% if link.size > 0 %}
+    <a href="{{ link }}">{{ name }}</a>
+    {% else %}
+    {{ name }}
+    {% endif %}
+    </li>
+    {% endif %}
 {% endfor %}
 </ul>
 
