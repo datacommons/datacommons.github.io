@@ -20,7 +20,7 @@ The Data Commons Cooperative enables its members to share the information we nee
 We share anything that fits in a spreadsheet. Contact lists, local dollars spent, government representatives, anything that can be tracked relevant to building a more democratic economy.
 </p>
 <h3>What we've done</h3>
-<img src="{{site.baseurl}}/images/solidnyc.jpg" />
+<img style="float:right" src="{{site.baseurl}}/images/solidnyc.jpg" />
 <p>
 SolidarityNYC is one recent example. Through working with the DCC, this volunteer collective has been able to completely update its map of the Solidarity Economy in New York. They’ve been able to increase their functionality by including a tagging platform and populate the map with new locations.</p> 
 <blockquote>The map has been central to our organizing work in connecting Solidarity Economy sectors to one another and illustrating the breadth of activity in our city and movement writ large. This is why we so deeply believe in the work of the Data Commons, because such data sharing eliminates the silos that we as cooperators often work within. <br>
