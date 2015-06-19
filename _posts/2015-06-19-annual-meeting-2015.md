@@ -20,7 +20,7 @@ held:
 <div class="section agenda">
 
 | Facilitator:  | Lauren Taylor       |
-| Note Taker:   | Noemi Giszpenc    |
+| Note Taker:   | Noemi Giszpenc--notes at <a href="https://pad.riseup.net/p/DCC-AGM-2015">https://pad.riseup.net/p/DCC-AGM-2015</a>    |
 | Time Watcher: | Lauren Taylor  |
 
 
