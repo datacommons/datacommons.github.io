@@ -48,6 +48,8 @@ Please read the biographies of the candidates. Read our annual report to learn m
 
 <ul class="index">
 <li><a href="{{site.baseurl}}/2015/06/16/Candidate-bios.html">Candidate bios 2015</a></li>
+<li><a href="{{site.baseurl}}/docs/dcc_annual_report_2015.pdf">Annual Report 2015</a></li>
+<li><a href="{{site.baseurl}}/docs/dcc_dues_proposal_2015.pdf">Dues Proposal 2015</a></li>
 </ul>
 
 </div>
