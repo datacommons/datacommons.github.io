@@ -30,7 +30,7 @@ held:
 | I. Welcome, Roll Call, Overview of the Agenda | Lauren Hudson | 15 min | 3:00-3:15 |
 | II. Board Elections overview | Noemi Giszpenc | 5 min | 3:15-3:20 |
 | III. Annual Report | Lauren Hudson | 5 min | 3:20-3:25 |
-| IV. Work of Visioning Team: | Facilitator: Emily Lippold-Cheney | 10 mins | 3:25-3:35 |
+| IV. Work of Visioning Team | Facilitator: Emily Lippold-Cheney, Presenter: Noemi Giszpenc | 10 mins | 3:25-3:35 |
 | V. Treasurer's Report & Fundraising Overview | David Morgan | 20 min | 3:35-3:55 |
 | VI. Dues Proposal | Noemi Giszpenc | 5-10 min | 3:55-4:05 |
 | *** VOTING REMINDER*** | Noemi Giszpenc | | |
