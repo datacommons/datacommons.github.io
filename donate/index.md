@@ -20,8 +20,12 @@ We need everyone to pitch in! A democratic economy requires democratic infrastru
 </div>
 <h3>What is the DCC?</h3>
 <p>
-The Data Commons Cooperative enables its members to share the information we need to create a more democratic economy. DCC is a network owned and controlled by its members; each member contributes what they know and any member can use that data for their needs. By providing democratic access to information, DCC helps reduce costs and redundancy, and strengthens our movement by creating tools and facilitating projects that augment our members’ work.
+The Data Commons Cooperative enables its members to share the information we need to create a more democratic economy. DCC is a network owned and controlled by its members; each member contributes what they know and any member can use that data for their needs. By providing democratic access to information, DCC helps reduce costs and redundancy, and strengthens our movement by creating tools and facilitating projects that augment our members’ work. 
 </p>
+<p>
+Hungry for more about the Data Commons? Watch <a target="blank" href="https://www.youtube.com/watch?v=vnZTcfGmX4E">this video</a> to learn more. 
+</p>
+
 <h3>What we mean by data</h3>
 <p>
 We share anything that fits in a spreadsheet. Contact lists, local dollars spent, government representatives, anything that can be tracked relevant to building a more democratic economy.
