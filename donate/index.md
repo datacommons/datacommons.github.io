@@ -60,7 +60,7 @@ members, for a minimum of 5 years after their donation. And, if you donate $100 
 <p>
 Thanks! Your voice matters. Folks like you can influence the outcome of this campaign. Will you share the message below on your favorite social media platform?</p>
 
-<blockquote>    ⁃    We need to make it easier for economic justice organizers to share info. The @datacommons is nerdy but necessary! http://s.coop/1wtcp  #GrowDCC
+<blockquote>We need to make it easier for economic justice organizers to share info. The @datacommons is nerdy but necessary! http://s.coop/1wtcp  #GrowDCC
 </blockquote>
 
 </div>
