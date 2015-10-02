@@ -57,6 +57,7 @@ members, for a minimum of 5 years after their donation. And, if you donate $100 
 </form>
 </div>
 
+<h3>Spread the word!</h3>
 <p>
 Thanks! Your voice matters. Folks like you can influence the outcome of this campaign. Will you share the message below on your favorite social media platform?</p>
 
