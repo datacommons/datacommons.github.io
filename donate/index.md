@@ -23,7 +23,15 @@ We need everyone to pitch in! A democratic economy requires democratic infrastru
 The Data Commons Cooperative enables its members to share the information we need to create a more democratic economy. DCC is a network owned and controlled by its members; each member contributes what they know and any member can use that data for their needs. By providing democratic access to information, DCC helps reduce costs and redundancy, and strengthens our movement by creating tools and facilitating projects that augment our members’ work. 
 </p>
 <p>
-Hungry for more about the Data Commons? Watch <a target="blank" href="https://www.youtube.com/watch?v=vnZTcfGmX4E">this video</a> to learn more. 
+Hungry for more about the Data Commons? Watch a few short videos from our members, talking about what the Data Commons is doing -- and could do, with more support!</p>
+<ul>
+<li>Jim Johnson Explains the Data Commons Cooperative: <a target="blank" href="https://youtu.be/UlPTPRnx27g">https://youtu.be/UlPTPRnx27g</a></li>
+<li>How the Data Commons Cooperative Helped SolidarityNYC: <a target="blank" href="https://youtu.be/X0YPfhDBNIc">https://youtu.be/X0YPfhDBNIc</a></li> 
+<li>Peter Frank Shares how the Data Commons Cooperative helped PACA: <a target="blank" href="https://youtu.be/zFxSZclYMi8">https://youtu.be/zFxSZclYMi8</a></li>
+<li>How the Data Commons Co-op can Help the Cooperative Movement: <a target="blank" href="https://youtu.be/upcEnIh0rh8">https://youtu.be/upcEnIh0rh8</a></li>
+<li>How the Data Commons Co-op Makes a Difference: <a target="blank" href="https://youtu.be/G2gYdOP0LgE">https://youtu.be/G2gYdOP0LgE</a></li>
+</ul>
+<p>Or, watch <a target="blank" href="https://www.youtube.com/watch?v=vnZTcfGmX4E">this longer video</a> to learn even more. 
 </p>
 
 <h3>What we mean by data</h3>
