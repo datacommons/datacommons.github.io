@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Interim Strategic Plan, June 2014 - June 2015
+layout: post
 ---
 
 # Data Commons Vision

@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Make a Donation
+layout: default
 ---
 
 <div class="section">

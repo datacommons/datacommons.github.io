@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Food co-op / buying club enthusiast wanted
+date: 2014-06-17 00:00:00 Z
+layout: post
 simple: true
 ---
 

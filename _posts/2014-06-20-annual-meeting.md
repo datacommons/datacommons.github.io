@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Annual General Meeting 2014
+date: 2014-06-20 00:00:00 Z
+layout: post
 ---
 
 <div class="section">

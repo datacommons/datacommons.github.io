@@ -1,5 +1,6 @@
 ---
 title: Welcome, Cooperative Grocer Network!
+date: 2014-05-22 00:00:00 Z
 layout: post
 simple: true
 ---
