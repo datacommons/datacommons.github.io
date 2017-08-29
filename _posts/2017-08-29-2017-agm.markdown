@@ -1,6 +1,9 @@
 ---
 title: 2017 AGM & Call for Nominations
 date: 2017-08-29 00:59:00 Z
+tags:
+- AGM
+- meeting
 ---
 
 The Data Commons Cooperative is having its next Annual General Meeting on September 8, 2017, from 3-5 pm Eastern.
@@ -10,9 +13,14 @@ This will be a Zoom video conference meeting. See instructions below.
 Interested in nominating someone or running for the board? Each member may nominate up to two people! We have up to four board seats open and are looking for candidates. Nominations are due IN WRITING by Wed, August 30. Please include the candidate's name, relationship to the DCC member, preferred pronouns, and short bio. Send nominations to [info@find.coop](mailto:info@find.coop).  Thanks!
 
 Topic: DCC Annual General Meeting
+
 Time: Sep 8, 2017 3:00-5:00 PM Eastern Time (US and Canada)
+
 Join from PC, Mac, Linux, iOS or Android: https://zoom.us/j/508777659
+
 Or iPhone one-tap (US Toll):  +16465588656,,508777659# or +14086380968,,508777659#
+
 Or Telephone:
     Dial: +1 646 558 8656 (US Toll) or +1 408 638 0968 (US Toll)
+
     Meeting ID: 508 777 659
