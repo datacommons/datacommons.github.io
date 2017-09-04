@@ -7,6 +7,7 @@
       "columns": [
         "NAME",
         "ADDRESS",
+        "WEBSITE",
         "LAT",
         "LNG",
         "COUNTRY",
@@ -18,6 +19,7 @@
         {
           "NAME": "AnyShare Society",
           "ADDRESS": "H.C. 74 Box 4136\nMayer\nAZ 86333",
+          "WEBSITE": "https://anysha.re/",
           "LAT": 34.3978054,
           "LNG": -112.2362734,
           "COUNTRY": "United States",
@@ -28,6 +30,7 @@
         {
           "NAME": "Canadian Worker Co-op Federation",
           "ADDRESS": "104, 402 30 Avenue NE, Calgary, Alberta T2E 2E3",
+          "WEBSITE": "http://www.canadianworker.coop/",
           "LAT": 51.07979040000001,
           "LNG": -114.0545945,
           "COUNTRY": "Canada",
@@ -38,6 +41,7 @@
         {
           "NAME": "Carla Ilten",
           "ADDRESS": "Chicago, IL",
+          "WEBSITE": "",
           "LAT": 41.8781136,
           "LNG": -87.6297982,
           "COUNTRY": "United States",
@@ -48,6 +52,7 @@
         {
           "NAME": "Carolina Common Enterprise",
           "ADDRESS": "Durham, NC",
+          "WEBSITE": "http://commonenterprise.coop/",
           "LAT": 35.9940329,
           "LNG": -78.898619,
           "COUNTRY": "United States",
@@ -58,6 +63,7 @@
         {
           "NAME": "Collaborative Agronomic Partnerships",
           "ADDRESS": "Indianapolis, IN",
+          "WEBSITE": "",
           "LAT": 39.768403,
           "LNG": -86.158068,
           "COUNTRY": "United States",
@@ -68,6 +74,7 @@
         {
           "NAME": "Cooperation Works!",
           "ADDRESS": "Oakland, CA",
+          "WEBSITE": "http://www.cooperationworks.coop/",
           "LAT": 37.8043637,
           "LNG": -122.2711137,
           "COUNTRY": "United States",
@@ -78,6 +85,7 @@
         {
           "NAME": "Cooperative Development Institute",
           "ADDRESS": "P.O. Box 1051\nNorthampton, MA 01061-1051",
+          "WEBSITE": "http://www.cdi.coop/",
           "LAT": 42.3214031,
           "LNG": -72.6273488,
           "COUNTRY": "United States",
@@ -88,6 +96,7 @@
         {
           "NAME": "Cooperative Fund of New England",
           "ADDRESS": "Amherst, MA",
+          "WEBSITE": "http://www.cooperativefund.org/",
           "LAT": 42.3732216,
           "LNG": -72.5198537,
           "COUNTRY": "United States",
@@ -98,6 +107,7 @@
         {
           "NAME": "Cooperative Grocer Network",
           "ADDRESS": "Minneapolis, MN",
+          "WEBSITE": "http://www.cooperativegrocer.coop/",
           "LAT": 44.977753,
           "LNG": -93.2650108,
           "COUNTRY": "United States",
@@ -108,6 +118,7 @@
         {
           "NAME": "Cooperative Maine",
           "ADDRESS": "Maine, US",
+          "WEBSITE": "http://cooperativemaine.org/",
           "LAT": 45.253783,
           "LNG": -69.4454689,
           "COUNTRY": "United States",
@@ -118,6 +129,7 @@
         {
           "NAME": "Cooperatives for a Better World",
           "ADDRESS": "670 North Commercial Street \nManchester, NH 03101",
+          "WEBSITE": "https://cooperativesforabetterworld.coop/",
           "LAT": 42.997698,
           "LNG": -71.46859510000002,
           "COUNTRY": "United States",
@@ -128,6 +140,7 @@
         {
           "NAME": "Cultivate.Coop",
           "ADDRESS": "PO Box 1207 Northampton, MA 01060",
+          "WEBSITE": "http://cultivate.coop/wiki/Main_Page",
           "LAT": 42.3250492,
           "LNG": -72.6411923,
           "COUNTRY": "United States",
@@ -138,6 +151,7 @@
         {
           "NAME": "Devin Case-Ruchala",
           "ADDRESS": "",
+          "WEBSITE": "",
           "LAT": null,
           "LNG": null,
           "COUNTRY": null,
@@ -148,6 +162,7 @@
         {
           "NAME": "Eastern Conference for Workplace Democracy",
           "ADDRESS": "East Coast, US",
+          "WEBSITE": "http://east.usworker.coop/",
           "LAT": 40.7422572,
           "LNG": -73.67423230000001,
           "COUNTRY": "United States",
@@ -158,6 +173,7 @@
         {
           "NAME": "Food Co-op Initiative",
           "ADDRESS": "14314 Featherstone Trail\nSavage, MN 55378 ",
+          "WEBSITE": "http://www.foodcoopinitiative.coop/",
           "LAT": 44.744756,
           "LNG": -93.36506469999999,
           "COUNTRY": "United States",
@@ -168,6 +184,7 @@
         {
           "NAME": "Grassroots Economic Organizing",
           "ADDRESS": "US",
+          "WEBSITE": "http://www.geo.coop/",
           "LAT": 37.09024,
           "LNG": -95.712891,
           "COUNTRY": "United States",
@@ -178,6 +195,7 @@
         {
           "NAME": "hOurworld",
           "ADDRESS": "US",
+          "WEBSITE": "http://hourworld.org/",
           "LAT": 37.09024,
           "LNG": -95.712891,
           "COUNTRY": "United States",
@@ -188,6 +206,7 @@
         {
           "NAME": "Julia Stantoznik",
           "ADDRESS": "Minneapolis, MN",
+          "WEBSITE": "",
           "LAT": 44.977753,
           "LNG": -93.2650108,
           "COUNTRY": "United States",
@@ -198,6 +217,7 @@
         {
           "NAME": "Keystone Development Center, Inc.",
           "ADDRESS": "PO Box 667\nEphrata\nPA 17522",
+          "WEBSITE": "http://www.kdc.coop/",
           "LAT": 40.1798165,
           "LNG": -76.17883909999999,
           "COUNTRY": "United States",
@@ -208,6 +228,7 @@
         {
           "NAME": "Manitoba Cooperative Association",
           "ADDRESS": "400 \u2013 317 Donald Street\nWinnipeg, MB R3B 2H6",
+          "WEBSITE": "http://www.manitoba.coop/",
           "LAT": 49.8946236,
           "LNG": -97.1436189,
           "COUNTRY": "Canada",
@@ -218,6 +239,7 @@
         {
           "NAME": "New Economy Coalition",
           "ADDRESS": "Cambridge, MA",
+          "WEBSITE": "http://neweconomy.net/",
           "LAT": 42.3736158,
           "LNG": -71.10973349999999,
           "COUNTRY": "United States",
@@ -228,6 +250,7 @@
         {
           "NAME": "New York Cooperative Network",
           "ADDRESS": "800 North Salina St, 2nd Floor\nSyracuse\nNY 13208\nUnited States",
+          "WEBSITE": "https://newyorkcooperativenetwork.wordpress.com/",
           "LAT": 43.0617313,
           "LNG": -76.1538377,
           "COUNTRY": "United States",
@@ -238,6 +261,7 @@
         {
           "NAME": "North American Students of Co-operation",
           "ADDRESS": "1100 W Cermak Rd #514\nChicago, IL 60608 USA",
+          "WEBSITE": "http://www.nasco.coop/",
           "LAT": 41.853193,
           "LNG": -87.65353859999999,
           "COUNTRY": "United States",
@@ -248,6 +272,7 @@
         {
           "NAME": "Northeast Food Knowledge Ecosystem",
           "ADDRESS": "Northeast US",
+          "WEBSITE": "http://nefke.nesawg.org/",
           "LAT": 43.2994285,
           "LNG": -74.21793260000001,
           "COUNTRY": "United States",
@@ -258,6 +283,7 @@
         {
           "NAME": "Northwest Cooperative Development Center",
           "ADDRESS": "1063 S Capitol Way, Suite 211\nOlympia\nWASHINGTON 98501",
+          "WEBSITE": "http://nwcdc.coop/",
           "LAT": 47.0384803,
           "LNG": -122.9012006,
           "COUNTRY": "United States",
@@ -268,6 +294,7 @@
         {
           "NAME": "Philadelphia Area Cooperative Alliance",
           "ADDRESS": "1315 Walnut Street Suite 320\nPhiladelphia\nPennsylvania 19107",
+          "WEBSITE": "http://www.philadelphia.coop/",
           "LAT": 39.9495913,
           "LNG": -75.1628901,
           "COUNTRY": "United States",
@@ -278,6 +305,7 @@
         {
           "NAME": "Radu Seserman",
           "ADDRESS": "NJ",
+          "WEBSITE": "",
           "LAT": 40.0583238,
           "LNG": -74.4056612,
           "COUNTRY": "United States",
@@ -288,6 +316,7 @@
         {
           "NAME": "Rocky Mountain Farmers Union Co-op Development Center",
           "ADDRESS": "7900 East Union Avenue\nSuite 200\nDenver\nColorado 80237",
+          "WEBSITE": "http://www.rmfu.org/co-op/co-op-mission/",
           "LAT": 39.62775,
           "LNG": -104.8961321,
           "COUNTRY": "United States",
@@ -298,6 +327,7 @@
         {
           "NAME": "Sarapis Foundation",
           "ADDRESS": "134 Spring St, #302\nNew York, NY 10012",
+          "WEBSITE": "http://sarap.is/",
           "LAT": 40.723895,
           "LNG": -74.00091139999999,
           "COUNTRY": "United States",
@@ -308,6 +338,7 @@
         {
           "NAME": "Shareable and the Sharing Cities Network",
           "ADDRESS": "487 Central Ave\nMountain View\nCA 94134",
+          "WEBSITE": "http://www.shareable.net/",
           "LAT": 37.396307,
           "LNG": -122.073636,
           "COUNTRY": "United States",
@@ -318,6 +349,7 @@
         {
           "NAME": "Solidarity Economy Network",
           "ADDRESS": "PO Box 785\nAmherst\nMassachusetts 01004",
+          "WEBSITE": "http://www.ussen.org/",
           "LAT": 42.3761193,
           "LNG": -72.5324102,
           "COUNTRY": "United States",
@@ -328,6 +360,7 @@
         {
           "NAME": "Solidarity NYC",
           "ADDRESS": "New York, NY",
+          "WEBSITE": "http://solidaritynyc.org/",
           "LAT": 40.7127837,
           "LNG": -74.0059413,
           "COUNTRY": "United States",
@@ -338,6 +371,7 @@
         {
           "NAME": "Solidarity Piedmont",
           "ADDRESS": "Durham, NC",
+          "WEBSITE": "http://solidaritypiedmont.org/",
           "LAT": 35.9940329,
           "LNG": -78.898619,
           "COUNTRY": "United States",
@@ -348,6 +382,7 @@
         {
           "NAME": "Solidarity Research Center",
           "ADDRESS": "332 Douglas Street\nLos Angeles\nCA 90026",
+          "WEBSITE": "http://solidarityresearch.org/",
           "LAT": 34.065504,
           "LNG": -118.2574664,
           "COUNTRY": "United States",
@@ -358,6 +393,7 @@
         {
           "NAME": "Tiny.Coop",
           "ADDRESS": "UK",
+          "WEBSITE": "http://www.tiny.coop/",
           "LAT": 55.378051,
           "LNG": -3.435973,
           "COUNTRY": "United Kingdom",
@@ -368,6 +404,7 @@
         {
           "NAME": "US Federation of Worker Co-ops",
           "ADDRESS": "1904 Franklin Street, #400 \nOakland, CA 94612",
+          "WEBSITE": "http://usworker.coop/",
           "LAT": 37.8073568,
           "LNG": -122.2674248,
           "COUNTRY": "United States",
@@ -378,6 +415,7 @@
         {
           "NAME": "Vermont Employee Ownership Center",
           "ADDRESS": "PO Box 546\nBurlington\nVermont 05402",
+          "WEBSITE": "http://veoc.org/",
           "LAT": 44.4799999,
           "LNG": -73.2099999,
           "COUNTRY": "United States",
@@ -388,6 +426,7 @@
         {
           "NAME": "Worcester Solidarity and Green Economy (SAGE) Alliance",
           "ADDRESS": "4 King St\nWorcester\nMA 01610",
+          "WEBSITE": "http://www.worcestersagealliance.org/",
           "LAT": 42.25566730000001,
           "LNG": -71.8134513,
           "COUNTRY": "United States",
@@ -397,13 +436,14 @@
         },
         {
           "NAME": "yunity.org",
-          "ADDRESS": "Share and Care e.V.\nEmmerweg 9\n91056 Erlangen\nGERMANY",
-          "LAT": null,
-          "LNG": null,
-          "COUNTRY": null,
-          "STREET": null,
-          "REGION": null,
-          "LOCALITY": null
+          "ADDRESS": "Emmerweg 9,\n91056 Erlangen,\nGERMANY",
+          "WEBSITE": "http://yunity.org/",
+          "LAT": 49.59529999999999,
+          "LNG": 10.9459,
+          "COUNTRY": "Germany",
+          "STREET": "9 Emmerweg",
+          "REGION": "Bayern",
+          "LOCALITY": "Erlangen"
         }
       ]
     }
