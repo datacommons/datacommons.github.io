@@ -1,11 +1,18 @@
 ---
 title: Members
 layout: default
+has_map: true
+width: 230
+gutter: 10
 ---
 
+{% include map.html %}
+
+{% if false %}
 <div class="section">
 
   <h2>Members of the Co-op</h2>
+
 
 {% capture mbrs %}
   {% for mbr in site.data.members %}
@@ -15,7 +22,7 @@ layout: default
 {% assign mbrs = mbrs | split: '|' | sort %}
   
 <ul>
-{% for mbr in mbrs %}
+{% for mbr in mbrs offset:1 %}
     {% assign items = mbr | split: '`' %}
     {% assign name = items[1] | strip %}
     {% if name %}
@@ -32,6 +39,7 @@ layout: default
 </ul>
 
 </div>
+{% endif %}
 
 <div class="section">
 

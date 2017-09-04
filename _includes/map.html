@@ -1,0 +1,188 @@
+<div id="map"></div>
+<div>
+  <input type=text id=filter placeholder="Type to filter" autofocus />
+</div>
+<div class="clear"></div>
+
+<div>
+<div id="directory" class="js-masonry" data-masonry-options='{ "itemSelector": ".item", "columnWidth": {{page.width}}, "gutter": {{page.gutter}} }'>
+</div>
+</div>
+
+<div class="clear"></div>
+
+{% raw %}
+<script id="member_template" type="text/x-handlebars-template">
+<div class="item">
+<b>{{NAME}}</b><br />
+{{#if SERVICE}}
+Service: {{SERVICE}}<br />
+{{/if}}
+{{#if COMPANY}}
+Organization: {{COMPANY}}<br />
+{{/if}}
+{{#if ADDRESS}}
+{{ADDRESS}}<br />
+{{/if}}
+{{#if PHONE}}
+Phone: {{phone PHONE}}<br />
+{{/if}}
+{{#if EMAIL}}
+Email: {{EMAIL}}<br />
+{{/if}}
+{{#if WEBSITE}}
+Website: {{link WEBSITE WEBSITE}}<br />
+{{/if}}
+</div>
+</script>
+{% endraw %}
+
+<script>
+
+var formatPhone = function(raw){
+  var parts = raw.replace(/[^0-9X]/gi, '').split('x');
+  var result = parts[0];
+  switch(result.length){
+    case(13):
+      result = result.replace(/(\d{3})(\d{3})(\d{3})(\d{4})/, '+$1 ($2) $3-$4');
+      break;
+    case(12):
+      result = result.replace(/(\d{2})(\d{3})(\d{3})(\d{4})/, '+$1 ($2) $3-$4');
+      break;
+    case(11):
+      result = result.replace(/(\d{1})(\d{3})(\d{3})(\d{4})/, '$1 ($2) $3-$4');
+      break;
+    case(10):
+      result = result.replace(/(\d{3})(\d{3})(\d{4})/, '($1) $2-$3');
+      break;
+    case(7):
+      result = result.replace(/(\d{3})(\d{4})/, '$1-$2');
+      break;
+    default:
+      result = result;
+  }
+  if(parts.length>1){
+    result += ' ext ' + parts[1];
+  }
+  return new Handlebars.SafeString(result);
+};
+
+$(window).on('load',
+  function() {
+
+   $('#footer').hide();
+   var map = L.map('map');
+   var mapquest = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+   var attrib = '©<a href="http://openstreetmap.org" target="_blank">OpenStreetMap</a> contributors';
+   L.tileLayer(mapquest, {
+     attribution: attrib,
+     maxZoom: 19
+   }).addTo(map);
+
+   var all = {{ site.data.directory.tables.directory.rows | jsonify }};
+   var markers = null;
+   var current_filter = "notset";
+
+   Handlebars.registerHelper('link', function(text, url) {
+     text = Handlebars.Utils.escapeExpression(text);
+     if (url.indexOf("://")<0) {
+       url = "http://" + url;
+     }
+     url  = Handlebars.Utils.escapeExpression(url);
+     var result = '<a href="' + url + '">' + text + '</a>';
+     return new Handlebars.SafeString(result);
+   });
+   Handlebars.registerHelper('phone', formatPhone);
+   var member_template = Handlebars.compile($("#member_template").html());
+
+   function match_filter(member,filt) {
+     var str = member["NAME"] + " // " + member["COMPANY"] + " // " + member["ADDRESS"] + " // " + member["LOCALITY"] + " // " + member["REGION"] + " // " + member["COUNTRY"] + " // " + member["PHONE"] + " // " + member["SERVICE"];
+     var filts = filt.split(' ');
+     for (var i=0; i<filts.length; i++) {
+       if (!str.match(new RegExp(filts[i],'i'))) return false;
+     }
+     return true;
+   }
+
+   function apply_filter(filt) {
+     if (filt==current_filter) return;
+     current_filter = filt;
+       var first = true;
+       var x1 = 40.8101;
+       var x2 = 40.8101;
+       var y1 = -73.9058;
+       var y2 = -73.9058;
+       var data = [];
+       for (var i=0; i<all.length; i++) {
+	 if (match_filter(all[i],filt)) {
+	   data.push(all[i]);
+	 }
+       }
+     var mdata = data;
+     if (data.length==0) {
+       mdata = all;
+     }
+     for (var i=0; i<mdata.length; i++) {
+       var x = mdata[i]["LAT"];
+       var y = mdata[i]["LNG"];
+       if (x==""||y=="") continue;
+       if (x==null||y==null) continue;
+       x = parseFloat(x);
+       y = parseFloat(y);
+       if (first) {
+	 x1 = x2 = x;
+	 y1 = y2 = y;
+	 first = false;
+	 continue;
+       }
+       x1 = Math.min(x1,x);
+       x2 = Math.max(x2,x);
+       y1 = Math.min(y1,y);
+       y2 = Math.max(y2,y);
+     }
+     var dx = 0.1;
+     var dy = 0.1;
+     map.fitBounds([[x1-dx,y1-dy],[x2+dx,y2+dy]]);
+     
+     if (markers!=null) {
+       map.removeLayer(markers);
+     }
+     markers = new L.MarkerClusterGroup({maxClusterRadius: 40});
+     var directory = $("#directory");
+     directory.html("");
+     for (var i=0; i<data.length; i++) {
+       var member = data[i];
+       console.log(member);
+       var txt = member_template(member);
+       directory.append(txt);
+       if (member.LAT==""||member.LNG==""||member.LAT==null||member.LNG==null) continue;
+       console.log(member.LAT + "  " + member.LNG);
+       var marker = new L.Marker(new L.LatLng(member.LAT,member.LNG), { title: member.NAME });
+       marker.bindPopup(txt);
+       markers.addLayer(marker);
+     }
+     map.addLayer(markers);
+     var container = document.querySelector('#directory');
+     var msnry = new Masonry( container, {
+       itemSelector: '.item',
+       columnWidth: {{page.width}},
+       gutter: {{page.gutter}}
+     });
+   }
+
+   $("#filter").bind("keyup change paste",function(e) {
+     apply_filter($(e.target).val());
+   });
+
+   apply_filter("");
+
+   if (!("autofocus" in document.createElement("input"))) {
+     document.getElementById("filter").focus();
+   }   
+ });
+ 
+</script>
+
+<p>
+  <i>Last <a href="https://docs.google.com/spreadsheets/d/19UaXhqPQ0QHEfSWS_adDEtPwYstq8llK2YijpvFZcKA/edit?usp=sharing">directory update</a>: {{site.time}}.</i>
+</p>

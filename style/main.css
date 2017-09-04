@@ -287,3 +287,31 @@ p.half-image img {
 	background: #aaf;
 }
 
+
+/* map */
+
+#filter { 
+  font-size: 150%;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 20px;
+  border-style: none;
+  background: #eee;
+  float: left;
+  margin-right: 10px;
+}
+
+#directory .item { 
+  display: block;
+  width: 200px;
+  margin-top: 2em;
+  padding: 10px;
+  border-radius: 10px;
+  background: white;
+  box-shadow: 0 0 1em #080;
+  overflow: auto;
+}
+
+.clear {
+  clear: both;
+}

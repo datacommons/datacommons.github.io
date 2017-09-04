@@ -10,6 +10,29 @@
 <link type="text/css" rel="stylesheet" href="{{site.baseurl}}/style/main.css" media="all" />
 <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/style/big.css" media="screen and (min-width: 512px)" />
 <link rel="stylesheet" type="text/css" href="{{site.baseurl}}/style/small.css" media="screen and (max-width: 320px)" />
+{% if page.has_map %}
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+ <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+ <link rel="stylesheet" href="{{site.baseurl}}/bits/leaflet.markercluster/dist/MarkerCluster.css" />
+ <link rel="stylesheet" href="{{site.baseurl}}/bits/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+ <script src="{{site.baseurl}}/bits/leaflet.markercluster/dist/leaflet.markercluster-src.js"></script>
+ <script src="{{site.baseurl}}/bits/handlebars/handlebars.min.js"></script>
+ <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+ <script src="{{site.baseurl}}/bits/masonry/dist/masonry.pkgd.min.js"></script>
+<style type="text/css">
+body {
+padding: 0;
+margin: 0;
+}
+html, body, #wrapper, #content {
+height: 100%;
+width: 100%;
+}
+#map {
+height: 50%;
+}
+</style>
+{% endif %}
 </head>
 <body>
 <div id="wrapper">
