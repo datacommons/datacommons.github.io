@@ -8,15 +8,14 @@ gutter: 10
 
 {% include map.html %}
 
-{% if false %}
 <div class="section">
 
   <h2>Members of the Co-op</h2>
 
 
 {% capture mbrs %}
-  {% for mbr in site.data.members %}
-    |{{ mbr.NAME | downcase }}`{{ mbr.NAME }}`{{ mbr.LINK }}`
+  {% for mbr in site.data.directory.tables.directory.rows %}
+    |{{ mbr.NAME | downcase }}`{{ mbr.NAME }}`{{ mbr.WEBSITE }}`
   {% endfor %}
 {% endcapture %}
 {% assign mbrs = mbrs | split: '|' | sort %}
@@ -39,7 +38,6 @@ gutter: 10
 </ul>
 
 </div>
-{% endif %}
 
 <div class="section">
 
