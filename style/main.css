@@ -28,6 +28,17 @@ h2 {
   font-size: 1.1em;
 }
 
+#early, #previous, #older {
+  background: url('{{site.baseurl}}/images/patch.jpg');
+  background-size: cover;
+  background-position: center; 
+}
+
+#early h2, #previous h2, #older h2 {
+  color: white;
+  text-shadow: 0px 0px 5px black;
+}
+
 #wrapper {
   max-width: 800px;
   margin: 0 auto;

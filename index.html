@@ -4,7 +4,9 @@ layout: default
 top: true
 ---
 
-<div class="section">
+{% include pitch.html %}
+
+<div class="section" id="early">
 <h2>Latest post</h2>
 
 <ul class="index">
@@ -17,8 +19,6 @@ top: true
 {% endfor %}
 </ul>
 </div>
-
-{% include pitch.html %}
 
 {% for post in site.posts limit:1 %}
 {% unless post.draft %}
@@ -36,7 +36,7 @@ top: true
 {% endfor %}
 
 
-<div class="section">
+<div class="section" id="previous">
 <h2>Previous posts</h2>
 
 <ul class="index">
@@ -66,9 +66,9 @@ top: true
 {% endfor %}
 
 
-<h2>Older posts</h2>
 
-<div class="section">
+<div class="section" id="older">
+<h2>Older posts</h2>
 <ul class="index">
   {% for post in site.posts offset:3 %}
     <li>
