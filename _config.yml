@@ -8,6 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
 name: Data Commons Co-op
 markdown: kramdown
 highlighter: pygments
@@ -18,10 +24,3 @@ kramdown:
   parse_block_html: true
 gems:
 - jekyll-sitemap
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
