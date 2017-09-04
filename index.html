@@ -4,13 +4,12 @@ layout: default
 top: true
 ---
 
-{% include pitch.html %}
 
-<h2>Recent posts</h2>
 <div class="section">
+<h2>Latest post</h2>
 
 <ul class="index">
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:1 %}
 {% unless post.draft %}
     <li>
       <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }} ({{post.date | date: "%B %Y"}})</a></h3>
@@ -20,7 +19,9 @@ top: true
 </ul>
 </div>
 
-{% for post in site.posts limit:3 %}
+{% include pitch.html %}
+
+{% for post in site.posts limit:1 %}
 {% unless post.draft %}
 {% if post.simple %}
 <h1>{{post.title}}</h1>
@@ -34,6 +35,37 @@ top: true
 {% endif %}
 {% endunless %}
 {% endfor %}
+
+
+<div class="section">
+<h2>Previous posts</h2>
+
+<ul class="index">
+{% for post in site.posts limit:3 offset:1 %}
+{% unless post.draft %}
+    <li>
+      <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }} ({{post.date | date: "%B %Y"}})</a></h3>
+    </li>
+{% endunless %}
+{% endfor %}
+</ul>
+</div>
+
+{% for post in site.posts limit:3 offset:1 %}
+{% unless post.draft %}
+{% if post.simple %}
+<h1>{{post.title}}</h1>
+<div class="section">
+{% else %}
+<h1>{{post.title}}</h1>
+{% endif %}
+  {{ post.content }}
+{% if post.simple %}
+</div>
+{% endif %}
+{% endunless %}
+{% endfor %}
+
 
 <h2>Older posts</h2>
 

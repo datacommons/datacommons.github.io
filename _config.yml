@@ -10,7 +10,7 @@ collections:
     output: true
 name: Data Commons Co-op
 markdown: kramdown
-pygments: true
+highlighter: pygments
 baseurl: 
 description: The Data Commons Co-op
 url: http://datacommons.coop
@@ -18,3 +18,10 @@ kramdown:
   parse_block_html: true
 gems:
 - jekyll-sitemap
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
