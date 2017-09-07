@@ -216,12 +216,12 @@
         },
         {
           "NAME": "Keystone Development Center, Inc.",
-          "ADDRESS": "PO Box 667\nEphrata\nPA 17522",
+          "ADDRESS": "108F N. Reading Road, Suite 200\nEphrata, PA 17522",
           "WEBSITE": "http://www.kdc.coop/",
-          "LAT": 40.1798165,
-          "LNG": -76.17883909999999,
+          "LAT": 40.1876688,
+          "LNG": -76.18595499999999,
           "COUNTRY": "United States",
-          "STREET": null,
+          "STREET": "108 North Reading Road",
           "REGION": "Pennsylvania",
           "LOCALITY": "Ephrata"
         },
