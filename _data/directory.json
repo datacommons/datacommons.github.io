@@ -1,6 +1,7 @@
 {
   "names": [
-    "directory"
+    "directory",
+    "roles"
   ],
   "tables": {
     "directory": {
@@ -444,6 +445,42 @@
           "STREET": "9 Emmerweg",
           "REGION": "Bayern",
           "LOCALITY": "Erlangen"
+        }
+      ]
+    },
+    "roles": {
+      "columns": [
+        "NAME",
+        "ROLE"
+      ],
+      "rows": [
+        {
+          "NAME": "Julia Stantoznik",
+          "ROLE": "President, Board"
+        },
+        {
+          "NAME": "David Morgan",
+          "ROLE": "Treasurer, Board"
+        },
+        {
+          "NAME": "No\u00e9mi Giszpenc",
+          "ROLE": "Secretary, Board, Operations"
+        },
+        {
+          "NAME": "Alex Stone",
+          "ROLE": "Board"
+        },
+        {
+          "NAME": "Jeff Piestrak",
+          "ROLE": "Board"
+        },
+        {
+          "NAME": "Paul Fitzpatrick",
+          "ROLE": "Operations"
+        },
+        {
+          "NAME": "David Gowler",
+          "ROLE": "Operations"
         }
       ]
     }
