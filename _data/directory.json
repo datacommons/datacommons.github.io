@@ -487,12 +487,6 @@
           "NOTE": ""
         },
         {
-          "NAME": "Paul Fitzpatrick",
-          "ROLE": "Operations",
-          "PAST ROLES": "",
-          "NOTE": ""
-        },
-        {
           "NAME": "David Gowler",
           "ROLE": "Operations",
           "PAST ROLES": "",
@@ -536,7 +530,7 @@
         },
         {
           "NAME": "Paul Fitzpatrick",
-          "ROLE": "",
+          "ROLE": "Operations",
           "PAST ROLES": "Board, Treasurer, Secretary, Tech",
           "NOTE": ""
         },
@@ -574,6 +568,12 @@
           "NAME": "Jamie Campbell",
           "ROLE": "",
           "PAST ROLES": "Tech",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Daphne Loring",
+          "ROLE": "",
+          "PAST ROLES": "",
           "NOTE": ""
         }
       ]
