@@ -16,7 +16,7 @@ defaults:
     layout: post
 name: Data Commons Co-op
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 baseurl: 
 description: The Data Commons Co-op
 url: http://datacommons.coop
