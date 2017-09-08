@@ -451,36 +451,130 @@
     "roles": {
       "columns": [
         "NAME",
-        "ROLE"
+        "ROLE",
+        "PAST ROLES",
+        "NOTE"
       ],
       "rows": [
         {
           "NAME": "Julia Stantoznik",
-          "ROLE": "President, Board"
+          "ROLE": "President, Board",
+          "PAST ROLES": "",
+          "NOTE": ""
         },
         {
           "NAME": "David Morgan",
-          "ROLE": "Treasurer, Board"
+          "ROLE": "Treasurer, Board",
+          "PAST ROLES": "",
+          "NOTE": ""
         },
         {
           "NAME": "No\u00e9mi Giszpenc",
-          "ROLE": "Secretary, Board, Operations"
+          "ROLE": "Secretary, Board, Operations",
+          "PAST ROLES": "",
+          "NOTE": ""
         },
         {
           "NAME": "Alex Stone",
-          "ROLE": "Board"
+          "ROLE": "Board",
+          "PAST ROLES": "",
+          "NOTE": ""
         },
         {
           "NAME": "Jeff Piestrak",
-          "ROLE": "Board"
+          "ROLE": "Board",
+          "PAST ROLES": "",
+          "NOTE": ""
         },
         {
           "NAME": "Paul Fitzpatrick",
-          "ROLE": "Operations"
+          "ROLE": "Operations",
+          "PAST ROLES": "",
+          "NOTE": ""
         },
         {
           "NAME": "David Gowler",
-          "ROLE": "Operations"
+          "ROLE": "Operations",
+          "PAST ROLES": "",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Emily Lippold Cheney",
+          "ROLE": "",
+          "PAST ROLES": "Board",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Lauren Hudson",
+          "ROLE": "",
+          "PAST ROLES": "Board, President",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Devin Case-Ruchala",
+          "ROLE": "",
+          "PAST ROLES": "Board",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Leah Feder",
+          "ROLE": "",
+          "PAST ROLES": "Board",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Ben Blackshear",
+          "ROLE": "",
+          "PAST ROLES": "Board",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Jim Johnson",
+          "ROLE": "",
+          "PAST ROLES": "Board, Treasurer, Tech",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Paul Fitzpatrick",
+          "ROLE": "",
+          "PAST ROLES": "Board, Treasurer, Secretary, Tech",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Melissa Hoover",
+          "ROLE": "",
+          "PAST ROLES": "Board",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Joe Marraffino",
+          "ROLE": "",
+          "PAST ROLES": "Board, President",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Benjamin Bradley",
+          "ROLE": "",
+          "PAST ROLES": "Tech",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Jason Mott",
+          "ROLE": "",
+          "PAST ROLES": "Tech",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Ethan Miller",
+          "ROLE": "",
+          "PAST ROLES": "Board, President, Tech",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Jamie Campbell",
+          "ROLE": "",
+          "PAST ROLES": "Tech",
+          "NOTE": ""
         }
       ]
     }
