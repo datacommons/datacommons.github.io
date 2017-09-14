@@ -370,17 +370,6 @@
           "LOCALITY": "New York"
         },
         {
-          "NAME": "Solidarity Piedmont",
-          "ADDRESS": "Durham, NC",
-          "WEBSITE": "http://solidaritypiedmont.org/",
-          "LAT": 35.9940329,
-          "LNG": -78.898619,
-          "COUNTRY": "United States",
-          "STREET": null,
-          "REGION": "North Carolina",
-          "LOCALITY": "Durham"
-        },
-        {
           "NAME": "Solidarity Research Center",
           "ADDRESS": "332 Douglas Street\nLos Angeles\nCA 90026",
           "WEBSITE": "http://solidarityresearch.org/",
