@@ -57,7 +57,7 @@ gutter: 10
     {% assign roles = items[2] | strip %}
     {% if roles contains 'Board' %}
     <li>{{ name }} 
-        {% if roles contains 'President' %}(president){% endif %}
+        {% if roles contains 'Vice President' %}(vice president){% else %}{% if roles contains 'President' %}(president){% endif %}{% endif %}
         {% if roles contains 'Treasurer' %}(treasurer){% endif %}
         {% if roles contains 'Secretary' %}(secretary){% endif %}
     </li>
