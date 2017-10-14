@@ -453,8 +453,8 @@
         },
         {
           "NAME": "David Morgan",
-          "ROLE": "Treasurer, Board",
-          "PAST ROLES": "",
+          "ROLE": "",
+          "PAST ROLES": "Treasurer, Board",
           "NOTE": ""
         },
         {
@@ -563,6 +563,12 @@
           "NAME": "Daphne Loring",
           "ROLE": "",
           "PAST ROLES": "Operations",
+          "NOTE": ""
+        },
+        {
+          "NAME": "Carla Itlen",
+          "ROLE": "Board",
+          "PAST ROLES": "",
           "NOTE": ""
         }
       ]
