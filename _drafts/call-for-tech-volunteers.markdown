@@ -37,6 +37,7 @@ Assemble these steps into a repeatable pipeline hosted by the Data Commons Co-op
 
 **Interested in helping out?**
 These are the roles we are recruiting volunteers for:
+
 Role: spreadsheet wrangler
 Must-haves:
 
@@ -51,6 +52,7 @@ Nice-to-haves
 * Familiar with google sheets
 
 Role: CRM wrangler
+
 Must-haves
 
 * Very familiar with one or more CRMs
@@ -62,6 +64,7 @@ Nice-to-haves
 * Comfortable with python (if that isn't already the language the CRM is written in)
 
 Role: front end
+
 Must-haves
 
 * HTML/CSS/JS skills
