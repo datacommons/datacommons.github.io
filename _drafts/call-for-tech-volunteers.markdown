@@ -13,6 +13,8 @@ Some of the census projects that are being added to find.coop now include:
 
 * co-op censuses of ME, NH, VT, MA, RI, CT, NY, NJ, PA and CO
 
+* a regional directory of borrowers from Cooperative Fund of New England
+
 * a national directory of food co-ops and buying clubs)
 
 * the research results of solidarityeconomy.us
