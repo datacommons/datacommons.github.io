@@ -32,7 +32,7 @@
         },
         {
           "NAME": "Canadian Worker Co-op Federation",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "104, 402 30 Avenue NE, Calgary, Alberta T2E 2E3",
           "WEBSITE": "http://www.canadianworker.coop/",
           "LAT": 51.07979040000001,
@@ -56,7 +56,7 @@
         },
         {
           "NAME": "Carolina Common Enterprise",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "Durham, NC",
           "WEBSITE": "http://commonenterprise.coop/",
           "LAT": 35.9940329,
@@ -68,7 +68,7 @@
         },
         {
           "NAME": "Collaborative Agronomic Partnerships",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "Indianapolis, IN",
           "WEBSITE": "",
           "LAT": 39.768403,
@@ -80,7 +80,7 @@
         },
         {
           "NAME": "Cooperation Works!",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "Oakland, CA",
           "WEBSITE": "http://www.cooperationworks.coop/",
           "LAT": 37.8043637,
@@ -92,7 +92,7 @@
         },
         {
           "NAME": "Cooperative Development Institute",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "P.O. Box 1051\nNorthampton, MA 01061-1051",
           "WEBSITE": "http://www.cdi.coop/",
           "LAT": 42.3214031,
@@ -104,7 +104,7 @@
         },
         {
           "NAME": "Cooperative Fund of New England",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "Amherst, MA",
           "WEBSITE": "http://www.cooperativefund.org/",
           "LAT": 42.3732216,
@@ -116,7 +116,7 @@
         },
         {
           "NAME": "Cooperative Grocer Network",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "Minneapolis, MN",
           "WEBSITE": "http://www.cooperativegrocer.coop/",
           "LAT": 44.977753,
@@ -128,7 +128,7 @@
         },
         {
           "NAME": "Cooperative Maine",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "Maine, US",
           "WEBSITE": "http://cooperativemaine.org/",
           "LAT": 45.253783,
@@ -140,7 +140,7 @@
         },
         {
           "NAME": "Cooperatives for a Better World",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "670 North Commercial Street \nManchester, NH 03101",
           "WEBSITE": "https://cooperativesforabetterworld.coop/",
           "LAT": 42.997698,
@@ -152,7 +152,7 @@
         },
         {
           "NAME": "Cultivate.Coop",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "PO Box 1207 Northampton, MA 01060",
           "WEBSITE": "http://cultivate.coop/wiki/Main_Page",
           "LAT": 42.3250492,
@@ -176,7 +176,7 @@
         },
         {
           "NAME": "Eastern Conference for Workplace Democracy",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "East Coast, US",
           "WEBSITE": "http://east.usworker.coop/",
           "LAT": 40.7422572,
@@ -188,7 +188,7 @@
         },
         {
           "NAME": "Food Co-op Initiative",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "14314 Featherstone Trail\nSavage, MN 55378 ",
           "WEBSITE": "http://www.foodcoopinitiative.coop/",
           "LAT": 44.744756,
@@ -200,7 +200,7 @@
         },
         {
           "NAME": "Grassroots Economic Organizing",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "US",
           "WEBSITE": "http://www.geo.coop/",
           "LAT": 37.09024,
@@ -212,7 +212,7 @@
         },
         {
           "NAME": "hOurworld",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "US",
           "WEBSITE": "http://hourworld.org/",
           "LAT": 37.09024,
@@ -236,7 +236,7 @@
         },
         {
           "NAME": "Keystone Development Center, Inc.",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "108F N. Reading Road, Suite 200\nEphrata, PA 17522",
           "WEBSITE": "http://www.kdc.coop/",
           "LAT": 40.1876688,
@@ -248,7 +248,7 @@
         },
         {
           "NAME": "Manitoba Cooperative Association",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "400 \u2013 317 Donald Street\nWinnipeg, MB R3B 2H6",
           "WEBSITE": "http://www.manitoba.coop/",
           "LAT": 49.8946236,
@@ -260,7 +260,7 @@
         },
         {
           "NAME": "New Economy Coalition",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "Cambridge, MA",
           "WEBSITE": "http://neweconomy.net/",
           "LAT": 42.3736158,
@@ -272,7 +272,7 @@
         },
         {
           "NAME": "New York Cooperative Network",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "800 North Salina St, 2nd Floor\nSyracuse\nNY 13208\nUnited States",
           "WEBSITE": "https://newyorkcooperativenetwork.wordpress.com/",
           "LAT": 43.0617313,
@@ -284,7 +284,7 @@
         },
         {
           "NAME": "North American Students of Co-operation",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "1100 W Cermak Rd #514\nChicago, IL 60608 USA",
           "WEBSITE": "http://www.nasco.coop/",
           "LAT": 41.853193,
@@ -296,7 +296,7 @@
         },
         {
           "NAME": "Northeast Food Knowledge Ecosystem",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "Northeast US",
           "WEBSITE": "http://nefke.nesawg.org/",
           "LAT": 43.2994285,
@@ -308,7 +308,7 @@
         },
         {
           "NAME": "Northwest Cooperative Development Center",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "1063 S Capitol Way, Suite 211\nOlympia\nWASHINGTON 98501",
           "WEBSITE": "http://nwcdc.coop/",
           "LAT": 47.0384803,
@@ -320,7 +320,7 @@
         },
         {
           "NAME": "Philadelphia Area Cooperative Alliance",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "1315 Walnut Street Suite 320\nPhiladelphia\nPennsylvania 19107",
           "WEBSITE": "http://www.philadelphia.coop/",
           "LAT": 39.9495913,
@@ -344,7 +344,7 @@
         },
         {
           "NAME": "Rocky Mountain Farmers Union Co-op Development Center",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "7900 East Union Avenue\nSuite 200\nDenver\nColorado 80237",
           "WEBSITE": "http://www.rmfu.org/co-op/co-op-mission/",
           "LAT": 39.62775,
@@ -356,7 +356,7 @@
         },
         {
           "NAME": "Sarapis Foundation",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "134 Spring St, #302\nNew York, NY 10012",
           "WEBSITE": "http://sarap.is/",
           "LAT": 40.723895,
@@ -368,7 +368,7 @@
         },
         {
           "NAME": "Shareable and the Sharing Cities Network",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "487 Central Ave\nMountain View\nCA 94134",
           "WEBSITE": "http://www.shareable.net/",
           "LAT": 37.396307,
@@ -380,7 +380,7 @@
         },
         {
           "NAME": "Solidarity Economy Network",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "PO Box 785\nAmherst\nMassachusetts 01004",
           "WEBSITE": "http://www.ussen.org/",
           "LAT": 42.3761193,
@@ -392,7 +392,7 @@
         },
         {
           "NAME": "Solidarity NYC",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "New York, NY",
           "WEBSITE": "http://solidaritynyc.org/",
           "LAT": 40.7127837,
@@ -404,7 +404,7 @@
         },
         {
           "NAME": "Solidarity Research Center",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "332 Douglas Street\nLos Angeles\nCA 90026",
           "WEBSITE": "http://solidarityresearch.org/",
           "LAT": 34.065504,
@@ -416,7 +416,7 @@
         },
         {
           "NAME": "Tiny.Coop",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "UK",
           "WEBSITE": "http://www.tiny.coop/",
           "LAT": 55.378051,
@@ -428,7 +428,7 @@
         },
         {
           "NAME": "US Federation of Worker Co-ops",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "1904 Franklin Street, #400 \nOakland, CA 94612",
           "WEBSITE": "http://usworker.coop/",
           "LAT": 37.8073568,
@@ -440,7 +440,7 @@
         },
         {
           "NAME": "Vermont Employee Ownership Center",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "PO Box 546\nBurlington\nVermont 05402",
           "WEBSITE": "http://veoc.org/",
           "LAT": 44.4799999,
@@ -452,7 +452,7 @@
         },
         {
           "NAME": "Worcester Solidarity and Green Economy (SAGE) Alliance",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "4 King St\nWorcester\nMA 01610",
           "WEBSITE": "http://www.worcestersagealliance.org/",
           "LAT": 42.25566730000001,
@@ -464,7 +464,7 @@
         },
         {
           "NAME": "yunity.org",
-          "CATEGORY": "",
+          "CATEGORY": "org",
           "ADDRESS": "Emmerweg 9,\n91056 Erlangen,\nGERMANY",
           "WEBSITE": "http://yunity.org/",
           "LAT": 49.59529999999999,
