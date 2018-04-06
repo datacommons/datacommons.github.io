@@ -35,12 +35,12 @@
           "CATEGORY": "org",
           "ADDRESS": "104, 402 30 Avenue NE, Calgary, Alberta T2E 2E3",
           "WEBSITE": "http://www.canadianworker.coop/",
-          "LAT": null,
-          "LNG": null,
-          "COUNTRY": null,
-          "STREET": null,
-          "REGION": null,
-          "LOCALITY": null
+          "LAT": 51.07979040000001,
+          "LNG": -114.0545944,
+          "COUNTRY": "Canada",
+          "STREET": "402 30 Avenue Northeast",
+          "REGION": "Alberta",
+          "LOCALITY": "Calgary"
         },
         {
           "NAME": "Carla Ilten",
@@ -107,12 +107,12 @@
           "CATEGORY": "org",
           "ADDRESS": "Amherst, MA",
           "WEBSITE": "http://www.cooperativefund.org/",
-          "LAT": null,
-          "LNG": null,
-          "COUNTRY": null,
+          "LAT": 42.3732216,
+          "LNG": -72.5198537,
+          "COUNTRY": "United States",
           "STREET": null,
-          "REGION": null,
-          "LOCALITY": null
+          "REGION": "Massachusetts",
+          "LOCALITY": "Amherst"
         },
         {
           "NAME": "Cooperative Grocer Network",
@@ -215,9 +215,9 @@
           "CATEGORY": "org",
           "ADDRESS": "US",
           "WEBSITE": "http://www.geo.coop/",
-          "LAT": null,
-          "LNG": null,
-          "COUNTRY": null,
+          "LAT": 37.09024,
+          "LNG": -95.712891,
+          "COUNTRY": "United States",
           "STREET": null,
           "REGION": null,
           "LOCALITY": null
@@ -227,9 +227,9 @@
           "CATEGORY": "org",
           "ADDRESS": "US",
           "WEBSITE": "http://hourworld.org/",
-          "LAT": null,
-          "LNG": null,
-          "COUNTRY": null,
+          "LAT": 37.09024,
+          "LNG": -95.712891,
+          "COUNTRY": "United States",
           "STREET": null,
           "REGION": null,
           "LOCALITY": null
@@ -263,12 +263,12 @@
           "CATEGORY": "org",
           "ADDRESS": "400 \u2013 317 Donald Street\nWinnipeg, MB R3B 2H6",
           "WEBSITE": "http://www.manitoba.coop/",
-          "LAT": null,
-          "LNG": null,
-          "COUNTRY": null,
-          "STREET": null,
-          "REGION": null,
-          "LOCALITY": null
+          "LAT": 49.8946831,
+          "LNG": -97.14357919999999,
+          "COUNTRY": "Canada",
+          "STREET": "317 Donald Street",
+          "REGION": "Manitoba",
+          "LOCALITY": "Winnipeg"
         },
         {
           "NAME": "New Economy Coalition",
@@ -287,12 +287,12 @@
           "CATEGORY": "org",
           "ADDRESS": "800 North Salina St, 2nd Floor\nSyracuse\nNY 13208\nUnited States",
           "WEBSITE": "https://newyorkcooperativenetwork.wordpress.com/",
-          "LAT": null,
-          "LNG": null,
-          "COUNTRY": null,
-          "STREET": null,
-          "REGION": null,
-          "LOCALITY": null
+          "LAT": 43.06197299999999,
+          "LNG": -76.153914,
+          "COUNTRY": "United States",
+          "STREET": "800 North Salina Street",
+          "REGION": "New York",
+          "LOCALITY": "Syracuse"
         },
         {
           "NAME": "North American Students of Co-operation",
@@ -311,9 +311,9 @@
           "CATEGORY": "org",
           "ADDRESS": "Northeast US",
           "WEBSITE": "http://nefke.nesawg.org/",
-          "LAT": null,
-          "LNG": null,
-          "COUNTRY": null,
+          "LAT": 43.2994285,
+          "LNG": -74.21793260000001,
+          "COUNTRY": "United States",
           "STREET": null,
           "REGION": null,
           "LOCALITY": null
@@ -347,11 +347,11 @@
           "CATEGORY": "person",
           "ADDRESS": "NJ",
           "WEBSITE": "",
-          "LAT": null,
-          "LNG": null,
-          "COUNTRY": null,
+          "LAT": 40.0583238,
+          "LNG": -74.4056612,
+          "COUNTRY": "United States",
           "STREET": null,
-          "REGION": null,
+          "REGION": "New Jersey",
           "LOCALITY": null
         },
         {
@@ -383,12 +383,12 @@
           "CATEGORY": "org",
           "ADDRESS": "487 Central Ave\nMountain View\nCA 94134",
           "WEBSITE": "http://www.shareable.net/",
-          "LAT": 37.396307,
-          "LNG": -122.073636,
-          "COUNTRY": "United States",
-          "STREET": "487 Central Avenue",
-          "REGION": "California",
-          "LOCALITY": "Mountain View"
+          "LAT": null,
+          "LNG": null,
+          "COUNTRY": null,
+          "STREET": null,
+          "REGION": null,
+          "LOCALITY": null
         },
         {
           "NAME": "Solidarity Economy Network",
@@ -407,12 +407,12 @@
           "CATEGORY": "org",
           "ADDRESS": "New York, NY",
           "WEBSITE": "http://solidaritynyc.org/",
-          "LAT": null,
-          "LNG": null,
-          "COUNTRY": null,
+          "LAT": 40.7127753,
+          "LNG": -74.0059728,
+          "COUNTRY": "United States",
           "STREET": null,
-          "REGION": null,
-          "LOCALITY": null
+          "REGION": "New York",
+          "LOCALITY": "New York"
         },
         {
           "NAME": "Solidarity Research Center",
@@ -443,9 +443,9 @@
           "CATEGORY": "org",
           "ADDRESS": "UK",
           "WEBSITE": "http://www.tiny.coop/",
-          "LAT": null,
-          "LNG": null,
-          "COUNTRY": null,
+          "LAT": 55.378051,
+          "LNG": -3.435973,
+          "COUNTRY": "United Kingdom",
           "STREET": null,
           "REGION": null,
           "LOCALITY": null
@@ -467,12 +467,12 @@
           "CATEGORY": "org",
           "ADDRESS": "1904 Franklin Street, #400 \nOakland, CA 94612",
           "WEBSITE": "http://usworker.coop/",
-          "LAT": null,
-          "LNG": null,
-          "COUNTRY": null,
-          "STREET": null,
-          "REGION": null,
-          "LOCALITY": null
+          "LAT": 37.807389,
+          "LNG": -122.267587,
+          "COUNTRY": "United States",
+          "STREET": "1904 Franklin Street",
+          "REGION": "California",
+          "LOCALITY": "Oakland"
         },
         {
           "NAME": "Vermont Employee Ownership Center",
