@@ -160,11 +160,9 @@ $(window).on('load',
      directory.html("");
      for (var i=0; i<data.length; i++) {
        var member = data[i];
-       console.log(member);
        var txt = member_template(member);
        directory.append(txt);
        if (member.LAT==""||member.LNG==""||member.LAT==null||member.LNG==null) continue;
-       console.log(member.LAT + "  " + member.LNG);
        var marker = new L.Marker(new L.LatLng(member.LAT,member.LNG), { title: member.NAME });
        marker.bindPopup(txt);
        markers.addLayer(marker);
