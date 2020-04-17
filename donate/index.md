@@ -8,7 +8,7 @@ layout: default
 <h2>Make a donation</h2>
 
 <p>
-We need everyone to pitch in! A democratic economy requires democratic infrastructure. Please give what you can.
+We need everyone to pitch in!   A democratic economy requires democratic infrastructure. Please give what you can.
 </p>
 <div style="text-align: center;">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
